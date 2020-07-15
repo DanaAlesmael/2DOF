@@ -10,6 +10,6 @@ Step 1: A ciruit was made using TinkerCad program.
 
 
 Step 2: The arm robot was analyzed and equations for forward and inverse kinematics were found and converted to a code to control the arm. 
-* 
+
 
 
